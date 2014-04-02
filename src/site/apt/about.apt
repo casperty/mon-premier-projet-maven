@@ -1,0 +1,4 @@
+It deals with building a jar and testing the code with JUnit.
+You've got a student which is subscribed to some courses. Those courses are divided in three categories : "Cours" (Course), "TD" (tutorials) and "TP" (pratical work).
+
+In our example, the student is named Alexandre Ravaux and he's attending Java class (You've got Java course, Java tutorial and Java pratical work).
