@@ -67,7 +67,7 @@
         <url>https://github.com/nerdyprog/mon-premier-projet</url>
         <connection>scm:git:ssh://git@github.com/nerdyprog/mon-premier-projet.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/nerdyprog/mon-premier-projet.git</developerConnection>
-      <tag>toto</tag>
+      <tag>mon-premier-projet-maven-1.0.0</tag>
   </scm>
 
     <distributionManagement>
