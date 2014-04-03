@@ -4,7 +4,7 @@
 
     <groupId>com.pymma.alex</groupId>
     <artifactId>mon-premier-projet-maven</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Mon premier projet Maven</name>
@@ -67,7 +67,6 @@
         <url>https://github.com/nerdyprog/mon-premier-projet</url>
         <connection>scm:git:ssh://git@github.com/nerdyprog/mon-premier-projet.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/nerdyprog/mon-premier-projet.git</developerConnection>
-      <tag>mon-premier-projet-maven-1.0.0</tag>
   </scm>
 
     <distributionManagement>
